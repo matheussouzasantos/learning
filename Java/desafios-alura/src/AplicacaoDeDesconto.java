@@ -1,4 +1,4 @@
-package DesafiosAlura;
+package DesafiosAlura.src;
 
 public class AplicacaoDeDesconto {
     public static void main(String[] args){

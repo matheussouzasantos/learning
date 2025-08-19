@@ -1,4 +1,4 @@
-package DesafiosAlura;
+package DesafiosAlura.src;
 
 public class CharConcatString {
     public static void main(String[] args){
